@@ -50,5 +50,3 @@ streamlit run app.py
 - Instagram automation does not bypass platform restrictions.
 - Email sending defaults to simulation to avoid accidental outreach.
 
-## Submission checklist
-Submit the GitHub repository plus README, dataset, personalized messages, outreach tracker, assignment mapping, test report, setup instructions, screenshots/short demo video, and API/tool list.
