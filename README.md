@@ -49,6 +49,7 @@ streamlit run app.py
 - Missing engagement data is not fabricated.
 - Instagram automation does not bypass platform restrictions.
 - Email sending defaults to simulation to avoid accidental outreach.
+<img width="1908" height="912" alt="Screenshot 2026-10-04 235219" src="https://github.com/user-attachments/assets/be280ea2-b6e5-463b-86d8-f2966f4c0faf" />
+<img width="1903" height="907" alt="Screenshot 2026-10-04 235244" src="https://github.com/user-attachments/assets/a9984597-df3f-4ee3-9ba3-37bf993ce8c6" />
 
-## Submission checklist
-Submit the GitHub repository plus README, dataset, personalized messages, outreach tracker, assignment mapping, test report, setup instructions, screenshots/short demo video, and API/tool list.
+
